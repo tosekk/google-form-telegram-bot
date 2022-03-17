@@ -1,5 +1,6 @@
 /gfbvenv
 /__pycache__
+config.py
 .pyc
 *.py[cod]
 *$py.class
